@@ -8,6 +8,12 @@
 	justify-content: center;
 	background: no-repeat url("pierre-dubuc-mathieu-nebra-deux-fondateurs.jpg");
 
+	border: 3px solid grey;
+
+	border-radius: 6px;
+
+	box-shadow: 5px 6px 0px 10px black;
+
 }
 
 #canvas{
