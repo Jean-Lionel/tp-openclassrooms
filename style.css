@@ -1,20 +1,19 @@
 /*style css*/
 
-body{
-	box-sizing: border-box;
-	margin-left: 40px;
-	max-height: 40px;
-}
-
-#card{
-	background-image: url("pierre-dubuc-mathieu-nebra-deux-fondateurs.jpg");
-
-}
-
 #card-body{
+	box-sizing: border-box;
+	width: 900px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: no-repeat url("pierre-dubuc-mathieu-nebra-deux-fondateurs.jpg");
 
 }
 
 #canvas{
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	transform: translate(50);
 
 }
